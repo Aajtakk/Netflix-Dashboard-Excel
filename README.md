@@ -10,7 +10,7 @@ Track Netflix's content success with an interactive Excel dashboard, optimizing 
 4. Analyze data (trends, patterns, top genres, directors)
 5. Refine dashboard layout and visualizations
 ## Dashboard
-![image](https://github.com/user-attachments/assets/477f08c3-d791-4fd8-bcf4-52c009d3fd6c)
+![image](https://github.com/user-attachments/assets/1c7518a9-9ae2-476f-84f5-57eddf9ffe0a)
 ![image](https://github.com/user-attachments/assets/04115c7b-88c1-4017-a486-960c382d4302)
 
 ## Project Insights
