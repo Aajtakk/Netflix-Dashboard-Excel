@@ -12,6 +12,7 @@ Track Netflix's content success with an interactive Excel dashboard, optimizing 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/1c7518a9-9ae2-476f-84f5-57eddf9ffe0a)
 ![image](https://github.com/user-attachments/assets/15b10003-c383-4ba2-9acd-268adc1847fc)
+![image](https://github.com/user-attachments/assets/76caf871-ac82-4a4c-bf83-a0a721b634d5)
 
 ## Project Insights
 1. Content Mix  :- Movies account for 69.7% of Netflix's library, while TV Shows make up 30.3%.
