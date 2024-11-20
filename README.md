@@ -1,4 +1,4 @@
-# Netflix-Dashboard-Excel-Data-Analysis (Interactive Dashboard Creation using MS Excel)
+# Netflix-Dashboard-Data-Analysis (Interactive Dashboard Creation using MS Excel)
 ## Project Overview
 Track Netflix's content success with an interactive Excel dashboard, optimizing strategy and viewer engagement.
 # Dataset Used
